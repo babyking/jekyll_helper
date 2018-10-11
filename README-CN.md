@@ -20,7 +20,7 @@ Jeykyll Helper 是一个Alfred下的Workflow,对jekyll的日常操作提供了�
 
 ![image-20181011195652876](assets/image-20181011195652876.png)
 
-增加 blog_path 环境亦是,输入jekyll site所在路径
+增加 blog_path 环境变量,输入jekyll site所在路径
 
 ![image-20181011195758576](assets/image-20181011195758576.png)
 
