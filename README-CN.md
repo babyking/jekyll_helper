@@ -46,11 +46,15 @@ blog delete
 
 ## 同步
 
+blog pull
+
 执行git pull操作
 
 ![blogpull](assets/blogpull.gif)
 
 ## 发布
+
+blog push
 
 执行git push操作
 

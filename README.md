@@ -40,17 +40,21 @@ blog open
 
 ## Delete article
 
-Blog delete
+blog delete
 
 ![blognew](assets/blogdelete.gif)
 
 ## Sync
+
+blog pull
 
 Perform a git pull operation
 
 ![blognew](assets/blogpull.gif)
 
 ## Depoly
+
+blog push
 
 Perform a git push operation
 
