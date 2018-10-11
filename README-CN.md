@@ -1,5 +1,7 @@
 # Jekyll  Helper
 
+[README-en](README.md)
+
 Jeykyll Helper 是一个Alfred下的Workflow,对jekyll的日常操作提供了便捷方式.
 
 
@@ -12,13 +14,21 @@ Jeykyll Helper 是一个Alfred下的Workflow,对jekyll的日常操作提供了�
 
 
 
+## 配置
+
+打开Jekyll Helper workflow的环境变量配置
+
+![image-20181011195652876](assets/image-20181011195652876.png)
+
+增加 blog_path 环境亦是,输入jekyll site所在路径
+
+![image-20181011195758576](assets/image-20181011195758576.png)
+
 ## 新建文章
 
 blog new `文章名称`
 
 文章名称会以 `年-月-日-wen-zhang-ming-chen.md ` 的形式生成文件名,并使用默认的编辑器打开文档.
-
-> 动图
 
 ![blognew](assets/blognew.gif)
 
